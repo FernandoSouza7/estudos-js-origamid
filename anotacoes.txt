@@ -1,0 +1,4 @@
+-Objestos são um conjunto de variáveis e funções.
+-Váriaveis são geralmente chamadas de propriedades e funções, métodos.
+-Uma propriedade pode ser uma função.
+-THIS É O PRÓPRIO OBJETO
