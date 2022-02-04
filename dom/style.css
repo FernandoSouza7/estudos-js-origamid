@@ -1,0 +1,8 @@
+body {
+    background: black;
+    color: darkgreen;
+}
+
+.main-title {
+    cursor: pointer;
+}
